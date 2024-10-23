@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Encargado de hacer el punto 4: Yamil Ian Luque (Nombre de Git: )
+
 void linea(char simbolo)
 {
 
