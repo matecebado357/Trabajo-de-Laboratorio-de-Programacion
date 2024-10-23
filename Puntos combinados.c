@@ -2,20 +2,24 @@
 #include <string.h>
 
 // Punto 1: Bautista Pereira Ivan Valdez (Nombre de Git: Bauti531)
-float metrosACentimetros(float metros) {
+float metrosACentimetros(float metros)
+{
     return metros * 100;
 }
 
-float centimetrosAMetros(float centimetros) {
+float centimetrosAMetros(float centimetros)
+{
     return centimetros / 100;
 }
 
 // Punto 2: Fabrizio Elian Morel (Nombre de Git: Fabzsz)
-double cm_a_pulgadas(double cm) {
+double cm_a_pulgadas(double cm)
+{
     return cm / 2.54;
 }
 
-double pulgadas_a_cm(double pulgadas) {
+double pulgadas_a_cm(double pulgadas)
+{
     return pulgadas * 2.54;
 }
 
