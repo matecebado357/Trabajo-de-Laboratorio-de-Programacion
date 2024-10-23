@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Encargado de hacer el punto 1: Bautista Pereira Ivan Valdez (Nombre de Git: Bauti531)
+
 float metrosACentimetros(float metros)
 {
     return metros * 100;
