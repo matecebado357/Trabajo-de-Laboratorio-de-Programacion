@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Punto 1: Bautista Pereira Ivan Valdez
+// Punto 1: Bautista Pereira Ivan Valdez (Nombre de Git: Bauti531)
 float metrosACentimetros(float metros) {
     return metros * 100;
 }
@@ -10,7 +10,7 @@ float centimetrosAMetros(float centimetros) {
     return centimetros / 100;
 }
 
-// Punto 2: Fabrizio Elian Morel
+// Punto 2: Fabrizio Elian Morel (Nombre de Git: Fabzsz)
 double cm_a_pulgadas(double cm) {
     return cm / 2.54;
 }
@@ -19,7 +19,7 @@ double pulgadas_a_cm(double pulgadas) {
     return pulgadas * 2.54;
 }
 
-// Punto 3: Brayan Blanco Avila
+// Punto 3: Brayan Blanco Avila (Nombre de Git: bavbry)
 void repetir(const char *texto, int veces)
 {
     for (int i = 0; i < veces; i++)
@@ -28,7 +28,7 @@ void repetir(const char *texto, int veces)
     }
 }
 
-// Punto 4: Yamil Ian Luque
+// Punto 4: Yamil Ian Luque (Nombre de Git: )
 void cartel(const char *texto, int veces)
 {
     int longitud = strlen(texto);
@@ -66,3 +66,5 @@ int main()
     cartel("Marcos", 4);
     return 0;
 }
+
+//Encargado de unir los codigos: Gabriel Alna Quiroz (Nombre de Git: matecebado357)
