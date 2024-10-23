@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Encargado de hacer el punto 2: Fabrizio Elian Morel (Nombre de Git: Fabzsz)
+
 double cm_a_pulgadas(double cm)
 {
     return cm / 2.54;
