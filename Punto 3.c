@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//Encargado de hacer el punto 3: Brayan Avila Blanco (Nombre de Git: bavbry)
+
 void repetir(const char *texto, int veces)
 {
     for (int i = 0; i < veces; i++)
